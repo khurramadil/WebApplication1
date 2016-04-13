@@ -6,11 +6,11 @@
 <head runat="server">
     <title></title>
 </head>
-<asp:textbox id="text1" class="form-control" runat="server"></asp:textbox>
 <body>
     <form id="form1" runat="server">
     <div>
-    
+    <asp:textbox id="text1" style="form-control" runat="server"></asp:textbox>
+
     </div>
     </form>
 </body>
